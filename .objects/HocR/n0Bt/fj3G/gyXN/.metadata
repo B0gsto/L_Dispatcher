@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Categorii produse",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "gyXNXSI4BUanBG-zexgeLQ",
+  "Reference": "OpuRkEwk9UyzeIdmi4NNmQ/gyXNXSI4BUanBG-zexgeLQ",
+  "ParentRef": "OpuRkEwk9UyzeIdmi4NNmQ/fj3GETwegEinvNT7ZMwwJw",
+  "Created": "2025-02-23T11:22:06.9549767Z",
+  "Updated": "2025-02-23T11:22:06.9549767Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

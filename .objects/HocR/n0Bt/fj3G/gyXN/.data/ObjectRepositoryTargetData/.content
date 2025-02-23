@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KMMsERb8N0SXjUWH-wQGUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dedeman.ro" CVScreenId="407da79e-8533-453d-81a3-4f19d0758d22" CvElementArea="78, 139, 313, 85" CvTextArea="159, 170, 210, 30" CvTextArgument="Categorii produse" CvType="Button" DesignTimeRectangle="79, 141, 313, 82" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='  Categorii produse' parentid='html-body' tag='BUTTON' /&gt;" Guid="508070dc-5463-40a5-b1f3-dd67e4411da3" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='33491276' title='Dedeman Magazin - Dedicat planurilor tale' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="407da79e-8533-453d-81a3-4f19d0758d22" CvElementArea="78, 139, 313, 85" CvTextArea="159, 170, 210, 30" CvTextArgument="Categorii produse" CvType="Button" DesignTimeRectangle="163, 170, 206, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Categorii produse' parentid='html-body' tag='LABEL' type='' class='' check:innerText='Categorii produse' /&gt;" Guid="eb07b97a-df2f-4903-a3cc-b28d95454c14" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5a03f8b2ff6f006bc0078916dfe713c4.png" xmlns="">08O_YayjbNkel-59mHB2zfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
