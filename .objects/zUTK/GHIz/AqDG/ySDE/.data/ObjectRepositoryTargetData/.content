@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j70O_Z1JPk6kL-K9odXo6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dedeman.ro/ro/mobila/c/16" DesignTimeRectangle="79, 440, 313, 82" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='*Categorii produse*' parentid='html-body' tag='BUTTON' /&gt;" Guid="06f122c0-9266-4043-8fff-d82923666f9e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='3078976' title='Mobila | Dedeman.ro | Alege mobila pentru orice camera | Vezi oferta online si amenajeaza o locuinta de vis' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="8fc694f42837343c11f9d9aa1b03e8e6.png" xmlns="">0Vi7Zl9V-ikegeOpf8uQl3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,91 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|hz9W27doV76bMnkFS9Sp1Pe1XMXVymYZ1VpSpJB2wA",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Text",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Url",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|6aaB06zjDCwdxL6XdXW0W5sXt07wVVoSjRLxJKBx9fQ",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|wcFKRcXlOv8KfzP86kDHjM8y8PChE7gA5EqlNmE",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "NewPrice",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Url",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Src",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Text",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "OldPrice",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "NExtractDataGeneric`1_1|DataTable|Yk446HPzzSvxKdacWKod17hMw4hVlKPq7VwVVaBBtU",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|t5pTH90PH2vQ4Z7LFCf5hrFLnjfPcFrMCnZytv3xVYg",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Url",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Reference",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "NExtractDataGeneric`1_1|DataTable|XrXcwIrAMk5gdKGIeoT39kZPkt8ZDiyCtftFA3NJyok",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
+    }
+  ]
+}

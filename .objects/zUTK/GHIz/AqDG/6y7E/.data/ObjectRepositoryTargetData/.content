@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R5Q2uWCfGkmSxirXwzf3Rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dedeman.ro" DesignTimeRectangle="124, 482, 419, 110" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='*Categorii produse*' parentid='html-body' tag='BUTTON' /&gt;" Guid="c2794cc1-db1e-4060-b09d-8e450a856b6e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='19246864' title='Dedeman Magazin - Dedicat planurilor tale' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="5e33ae72d27e020bd8c342fe2e189d31.png" xmlns="">0e4sUOCgLREyC0jB5DialhQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="2t7eoXv4uk6REOITfb3cnQ" Reference="OpuRkEwk9UyzeIdmi4NNmQ/bFVdZ5busUiXlAeADifqAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="vTQp6tBAfEi5nM_VGuIELA" Reference="OpuRkEwk9UyzeIdmi4NNmQ/bFVdZ5busUiXlAeADifqAA" Selector="&lt;html htmlwindowname='*' title='*' app='chrome.exe' /&gt;" Url="[in_strURL]" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <imageRef attrName="InformativeScreenshot" originalValue="313549a6aaca6d59c088c65caf076174.jpg" xmlns="">08tRqGFZ4LUC6RgNyU2lj_w</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_strURL" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

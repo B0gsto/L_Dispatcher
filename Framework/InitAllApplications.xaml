@@ -23,7 +23,6 @@
       <x:String>System.Diagnostics</x:String>
       <x:String>System.IO</x:String>
       <x:String>System.Linq</x:String>
-      <x:String>System.Management.Automation</x:String>
       <x:String>System.Net.Mail</x:String>
       <x:String>System.Xml</x:String>
       <x:String>System.Xml.Linq</x:String>
@@ -34,29 +33,13 @@
       <x:String>UiPath.Core.Activities</x:String>
       <x:String>GlobalVariablesNamespace</x:String>
       <x:String>GlobalConstantsNamespace</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Models</x:String>
       <x:String>System.Runtime.Serialization</x:String>
-      <x:String>UiPath.Shared.Services.Graph.Mail.Models</x:String>
       <x:String>UiPath.Platform.ResourceHandling</x:String>
       <x:String>System.Collections</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Mail.Models</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Files.Enums</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Mail.Filters</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Contracts</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Mail.Enums</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Filters</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Mail</x:String>
       <x:String>UiPath.Shared.Activities</x:String>
       <x:String>UiPath.Shared.Activities.ConnectionService.Contracts</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities</x:String>
-      <x:String>UiPath.MicrosoftOffice365.Activities.Mail.Enums</x:String>
-      <x:String>UiPath.Shared.Activities.Utils</x:String>
       <x:String>UiPath.Shared.Activities.Business</x:String>
       <x:String>System.Reflection</x:String>
-      <x:String>UiPath.Mail.Activities.Business</x:String>
-      <x:String>UiPath.Mail.Activities</x:String>
-      <x:String>UiPath.Mail</x:String>
-      <x:String>UiPath.Mail.Outlook.Activities</x:String>
       <x:String>System.Activities.Runtime.Collections</x:String>
       <x:String>UiPath.UIAutomationNext.Enums</x:String>
       <x:String>UiPath.UIAutomationCore.Contracts</x:String>
@@ -138,14 +121,19 @@
       <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="The InitAllApplication gets all the mails from the desired folder and filters them to save only the csv files" DisplayName="Initialize All Applications" sap:VirtualizedContainerService.HintSize="1420.8000000000002,394.4" sap2010:WorkflowViewState.IdRef="Sequence_9">
+  <Sequence sap2010:Annotation.AnnotationText="The InitAllApplication gets all the mails from the desired folder and filters them to save only the csv files" DisplayName="Initialize All Applications" sap:VirtualizedContainerService.HintSize="1254.4,850.84" sap2010:WorkflowViewState.IdRef="Sequence_9">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log message (Initialize applications)" sap:VirtualizedContainerService.HintSize="449.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Opening applications...&quot;]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;Ending InitAllApplications&quot;]" />
+    <ui:LogMessage DisplayName="Log message (Initialize applications)" sap:VirtualizedContainerService.HintSize="453.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Opening applications...&quot;]" />
+    <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Chrome_Dedeman_OpenMenu - Invoke Workflow File (Components\Chrome_Dedeman_OpenMenu.xaml)" sap:VirtualizedContainerService.HintSize="453.6,176" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Components\Chrome_Dedeman_OpenMenu.xaml">
+      <ui:InvokeWorkflowFile.Arguments>
+        <scg:Dictionary x:TypeArguments="x:String, Argument" />
+      </ui:InvokeWorkflowFile.Arguments>
+    </ui:InvokeWorkflowFile>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="453.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;Ending InitAllApplications&quot;]" />
   </Sequence>
 </Activity>

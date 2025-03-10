@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mobila living ›",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "bE8OqIOy8U-qlszlwb46SA",
+  "Reference": "OpuRkEwk9UyzeIdmi4NNmQ/bE8OqIOy8U-qlszlwb46SA",
+  "ParentRef": "OpuRkEwk9UyzeIdmi4NNmQ/AqDG81oUGEuVQ4csTQOrfA",
+  "Created": "2025-02-23T21:08:22.6109821Z",
+  "Updated": "2025-02-23T21:08:22.6109821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

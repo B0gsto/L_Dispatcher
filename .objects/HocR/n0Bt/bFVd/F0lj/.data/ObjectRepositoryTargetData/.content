@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_BldDEQx4keDCHm6G97q8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dedeman.ro/ro/mobila-living/c/85" DesignTimeRectangle="651, 856, 1804, 34" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='maincontent' tag='P' /&gt;" Guid="e02ce88f-0301-4c72-b63f-846445d79eb7" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='23380315' title='Mobilă living / sufragerie' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="None" />
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

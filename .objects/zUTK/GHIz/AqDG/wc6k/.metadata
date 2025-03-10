@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mobila",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wc6kfVKH7EOodRI8xwORMg",
+  "Reference": "OpuRkEwk9UyzeIdmi4NNmQ/wc6kfVKH7EOodRI8xwORMg",
+  "ParentRef": "OpuRkEwk9UyzeIdmi4NNmQ/AqDG81oUGEuVQ4csTQOrfA",
+  "Created": "2025-02-23T20:23:42.9141184Z",
+  "Updated": "2025-02-23T20:23:42.9141184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
